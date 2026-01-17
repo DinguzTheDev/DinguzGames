@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": [
+    "https://example.com/game_part1.zip",
+    "https://example.com/game_part2.zip"
+  ]
+}
