@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
   "downloadUrl": [
-    "https://example.com/game_part1.zip",
-    "https://example.com/game_part2.zip"
+    "https://github.com/DinguzTheDev/DinguzGames/releases/download/stanleyparablepart1/stanleypart1.zip.001",
+    "https://github.com/DinguzTheDev/DinguzGames/releases/download/stanleyparablepart2/stanleypart1.zip.002",
+    "https://github.com/DinguzTheDev/DinguzGames/releases/download/stanleyparablepart3/stanleypart1.zip.003"
   ]
 }
